@@ -1,3 +1,5 @@
+# Note: Open-source release coming here soon. For now, this repository provides the project overview.
+
 # CapWarden
 
 A free Windows system tray monitor for Claude rate limits.
