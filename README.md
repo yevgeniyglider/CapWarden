@@ -2,7 +2,7 @@
 
 A free Windows system tray monitor for Claude rate limits.
 
-CapWarden sits in your system tray and shows your Claude usage at a glance. Color-coded icon, live usage bars, reset countdowns, and peak hours tracking — so you always know where you stand before starting a conversation. Authenticates via your existing Claude Code login. Lightweight, zero configuration required.
+CapWarden sits in your system tray and shows your Claude usage at a glance. Color-coded icon, live usage bars, reset countdowns, and peak hours tracking — so you always know where you stand before starting a conversation. Authenticates via your existing Claude Code login.
 
 ## Why CapWarden?
 
@@ -31,8 +31,6 @@ Under the hood — no telemetry or data collection, the only network traffic is 
 ## Quick Start
 
 Download the Windows installer from [yevgeniyglider.com/capwarden](https://yevgeniyglider.com/capwarden/) and run it. No Python required.
-
-To customize settings, see [docs/configuration.md](docs/configuration.md). To remove: disable "Start with Windows" in the context menu (if enabled), then delete the file.
 
 ## Installation from Source
 
